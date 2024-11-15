@@ -16,7 +16,8 @@ Esta é uma solução para o [desafio do componente de cartão de perfil no Fron
 
 ### O desafio
 
-- Crie o projeto de acordo com os designs fornecidos
+- Crie o projeto de acordo com os designs fornecidos.
+- Transições com posicionamento absoluto.
 
 ### Captura de tela
 
